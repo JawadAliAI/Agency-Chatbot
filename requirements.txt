@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+PyPDF2
+huggingface-hub
+gradio
+groq
+requests
+sqlite3
+pypdf
+sentence-transformers
+langchain-community
