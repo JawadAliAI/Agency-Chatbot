@@ -1,0 +1,4 @@
+python-dotenv
+streamlit
+langchain
+sqlite3  # if using SQLite
