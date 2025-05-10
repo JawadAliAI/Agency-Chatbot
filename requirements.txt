@@ -1,6 +1,4 @@
 streamlit
-python-dotenv
-dotenv 
 langchain
 langchain-core
 PyPDF2
@@ -12,3 +10,5 @@ sqlite3
 pypdf
 sentence-transformers
 langchain-community
+python-dotenv
+dotenv
