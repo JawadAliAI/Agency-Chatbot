@@ -1,5 +1,6 @@
 streamlit
 python-dotenv
+dotenv 
 langchain
 langchain-core
 PyPDF2
