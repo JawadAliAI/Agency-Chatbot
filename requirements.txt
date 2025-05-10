@@ -10,5 +10,4 @@ sqlite3
 pypdf
 sentence-transformers
 langchain-community
-python-dotenv
 dotenv
